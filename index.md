@@ -6,7 +6,7 @@ Section B02: "Mining Privacy Designs in the News" - Haojian Jin
 
 Make sure you’ve familarized yourself with the Quarter 2 Project Proposal specifications before proceeding!
 
-**What is the most interesting topic covered in your domain this quarter?**
+**What is the most interesting topic covered in your domain this quarter?**\n
 The most interesting topic we have covered has been finding ways to generalize trends in privacy, as well as map user privacy preferences from one online service to another. I think that this is the topic that best grounded our project in something practical, that people might actually want to use.
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
