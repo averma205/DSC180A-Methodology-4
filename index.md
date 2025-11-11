@@ -1,4 +1,7 @@
+# Methodology Assignment 4, Task 2
+
 Arya Verma (a5verma@ucsd.edu)
+
 Section B02: "Mining Privacy Designs in the News" - Haojian Jin
 
 Make sure you’ve familarized yourself with the Quarter 2 Project Proposal specifications before proceeding!
